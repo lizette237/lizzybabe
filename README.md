@@ -1,2 +1,2 @@
-# lizette237
-DATA ANALYSIS TRAINING TASKS
+# Hi there, my name is Lizette
+#### ** I am a Data analyst trainee**
