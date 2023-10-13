@@ -18,5 +18,35 @@ While working on this, i inserted a new column beside the Employees name.i went 
 on the worksheet, i clicked on conditional formatting, selected new rule, select the rule type then clicked on format cells that contain a specific text. Afterwhich, i chose beginning with E then chose the colour and clicked entered. My cell was highlighted.Use conditional formatting to highlight the highest and lowest salary with Green and red bacground respectively.
 ![](sheet3.png)
 
+## Financials task 1
+![](financials.csv)
+The financial dataset was shared with us by our instructor. we were asked to do the following 
+
+### Determine Total Revenue
+In calculating the total revenue, i used the sum function by clicking on an empty cell, types equals sign and then typed the sum function then clicked on the cell A2:A701 containing sales made within the period and then enter.
+
+### Determine Total Profit
+i used thesame SUM function but this time on the profit column
+
+### Determine Average Revenue 
+In calculating the Average revenue, i used the Average function by clicking on an empty cell, types equals sign and then typed the Average function then clicked on the cell A2:A701 containing sales made within the period and then enter.
+
+### Determine Average units sold
+I used the average function by clicking on an empty cell, type Equals sign and then select Avearge then highlight the cells O2:O701 and then enter.
+
+### Determine total discount
+Used sum function then select the cells F2:F701 and then enter
+
+### Total number of sales recorded
+used the count function, then highlight the cells A2:A701 containing sales record, clicked enter 
+
+### Highest profit generated
+used the Max function, =Max(L2:L701) then clicked enter
+
+### Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
+used the IF function by clicking the equals sign i.e =IF(G2>$S$2,"High sales","Low sales",). S2 is the average revenue.
+
+
+
 
 
