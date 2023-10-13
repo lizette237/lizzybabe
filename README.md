@@ -45,6 +45,7 @@ used the Max function, =Max(L2:L701) then clicked enter
 
 ### Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
 used the IF function by clicking the equals sign i.e =IF(G2>$S$2,"High sales","Low sales",). S2 is the average revenue.
+![](financials.csv)
 
 
 
